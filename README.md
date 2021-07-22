@@ -1,2 +1,2 @@
 ### Food App
-##### Built by React Native and Expo
+##### A mobile app built by React Native and Expo
