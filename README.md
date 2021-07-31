@@ -8,6 +8,9 @@
 - Then copy this link " exp://exp.host/@developerfg/food-search " to your phone's clipboard
 - Then open expo app and press " Open a link from copied clipboard "  
 
-#### How to contribute
+#### How to contribute and change codes
 
 - Firstly clone "git clone <Repo directory>"
+- Go to project directory in your local -> cd <project directory>
+- npm install to setup all dependencies
+- npm start
