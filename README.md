@@ -4,10 +4,13 @@
 
 ##### Screenshots
 
-![Screenshot_20211003-150050_Expo Go](https://user-images.githubusercontent.com/47864126/135753276-1ba76a7d-4c2a-4d03-b60b-f24f480be1c3.jpg)
-![Screenshot_20211003-150058_Expo Go](https://user-images.githubusercontent.com/47864126/135753281-9446e8c2-5208-4c3c-9a47-10115fc3cfaf.jpg)
-![Screenshot_20211003-150246_Expo Go](https://user-images.githubusercontent.com/47864126/135753284-9dacb7d4-db23-4027-9967-fded7b5e6ddb.jpg)
-![Screenshot_20211003-150259_Expo Go](https://user-images.githubusercontent.com/47864126/135753287-4ed1cf7f-22ce-4e29-801c-9dd10ec59b9e.jpg)
+<img width="364" alt="Screenshot 2021-10-03 at 15 19 02" src="https://user-images.githubusercontent.com/47864126/135753408-739f1928-4760-4416-9e08-4af55ce7c885.png">
+
+<img width="361" alt="Screenshot 2021-10-03 at 15 19 18" src="https://user-images.githubusercontent.com/47864126/135753412-b379f41e-ee3a-4f2e-89ae-e18403799121.png">
+
+<img width="363" alt="Screenshot 2021-10-03 at 15 19 32" src="https://user-images.githubusercontent.com/47864126/135753414-28685f40-d5d3-4b4e-ae72-87e2de196bc2.png">
+
+<img width="364" alt="Screenshot 2021-10-03 at 15 19 43" src="https://user-images.githubusercontent.com/47864126/135753415-c7d3b251-2e05-4d8f-ad30-897b92322d20.png">
 
 #### How to open via your phone
 
